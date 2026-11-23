@@ -1,7 +1,8 @@
-console.log("5")
-console.log(5)
-console.log(5 + 2) // Suma
-console.log(5 - 2) // Resta
-console.log(5 * 2) // Multiplicacion
-console.log(5 % 2) // Modulo o sacarle el resto
-console.log(5 ** 2) // Elevelado a una potencia
+direccion = "Ciudad de Guatemala"          
+edad = 21                                 
+estatura = 1.75                            
+isEngineer = false                         
+myBigInt = 98765432109876543210n           
+nullValue = null                          
+undefinedValue = undefined                 
+mySymbol = Symbol("otroSymbol")   
